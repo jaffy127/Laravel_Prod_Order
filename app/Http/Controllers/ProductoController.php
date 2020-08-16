@@ -119,7 +119,7 @@ class ProductoController extends Controller
        $result_producto_id = array();
        $result_producto_similar = array();
        $result_producto_igual = array();
-       $;
+       
 
         if($request->hasFile('file')){
 
